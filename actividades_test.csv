@@ -2,3 +2,4 @@ actividad_id,actividad_nombre,actividad_fecha,actividad_estatus
 act001,Actividad 1,16/04/2024,TRUE
 act002,Actividad 2,18/04/2024,TRUE
 act003,Actividad 3,20/04/2024,TRUE
+act004,Actividad 4,25/04/2024,TRUE
